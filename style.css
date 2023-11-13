@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'index font';
+    src: url('./PlayfairDisplay-VariableFont_wght.ttf');
+}
+
+h1 {
+    font-family: 'index font';
+}
+
+
+
+
+body {
+    background-color: red;
+    padding: 200px;
+    text-align: center;
+}
+
+#container {
+    background-color: white;
+    padding: 100px;
+}
+
+#links {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+}
+
+#abc {
+    height: 300px;
+    width: 570px;
+}
+
+.image {
+    height: 150px;
+    width: 200px;
+}
+
+.img {
+    height: 150px;
+    width: 200px;
+    display: inline-block;
+}
+
+#main {
+    display: block;
+}
